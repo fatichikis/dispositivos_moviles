@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "469012179406",
+    "firebase_url": "https://dispositivosestemeroes.firebaseio.com",
+    "project_id": "dispositivosestemeroes",
+    "storage_bucket": "dispositivosestemeroes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469012179406:android:ba96a473e30b65b8",
+        "android_client_info": {
+          "package_name": "com.example.dispositivos2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469012179406-rpj2qboen3v33hulisvq3rqu1aom35qk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDen00U5GIStxZYrSp29n-2stjpT0LydcY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
